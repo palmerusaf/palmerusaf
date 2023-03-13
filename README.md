@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Branden</h1>
 <h3 align="center">A passionate frontend developer from the USA</h3>
 
-- 🔭 I’m currently working on [memespace](memespace)
+- 🔭 I’m currently working on [memespace](https://github.com/palmerusaf/memespace)
 
 - 🌱 I’m currently learning **Next 13**
 
